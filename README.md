@@ -1,7 +1,11 @@
 🖐 Hi, I’m Mark Hjuler
+
 🌏 I’m interested in Back-end development
+
 🚧 I’m currently working at MPH TECH
+
 📫 Feel free to connect with me on Linkedin
+
 💼 My 2 Most recent Projects:
 
 🔫 CSGO-TRADING
